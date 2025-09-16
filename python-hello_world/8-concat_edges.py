@@ -4,4 +4,4 @@ str2 = "-oriented"
 str3 = "programming"
 str4 = "with"
 str5 = "Python"
-# YOUR CODE GOES HERE. PLEASE REMOVE THIS LINE
+print(str1 + str2[1:] + " " + str3 + " " + str4 + " " + str5)
