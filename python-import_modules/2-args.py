@@ -9,4 +9,4 @@ if count == 0:
 else:
     print("{} argument{}:".format(count, "" if count == 1 else "s"))
     for i in range(count):
-        print("{}: {}".format(i + 1, args[i]))
+        print("{}: {}".format(i + 1, args[i])
