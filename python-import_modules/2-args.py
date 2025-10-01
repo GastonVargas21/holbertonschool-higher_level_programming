@@ -10,4 +10,3 @@ if __name__ == "__main__":
         print("{} argument{}:".format(count, "" if count == 1 else "s"))
         for i in range(count):
             print("{}: {}".format(i + 1, args[i]))
-
